@@ -1,0 +1,7 @@
+this is version 1 of my project
+i want this is to go into commit 2
+change by rahul
+
+
+this is change now
+change for renamw of commit
